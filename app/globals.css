@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+}
+
+::selection {
+  background-color: var(--color-amber-200);
+  color: var(--color-amber-950);
+}
