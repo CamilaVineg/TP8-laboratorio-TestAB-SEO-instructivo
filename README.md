@@ -205,7 +205,8 @@ components/boton-cta.tsx    formulario del CTA
 
 - [x] Proyecto funcionando con la separación de archivos pedida.
 - [x] `/practica` y `/bitacora`.
-- [x] Informe de una carilla: [`INFORME.md`](INFORME.md).
+- [x] Informe de una carilla: [`INFORME.md`](INFORME.md) · PDF para imprimir:
+      [`docs/informe.pdf`](docs/informe.pdf).
 - [x] Captura del caso de prueba: [`docs/bitacora.png`](docs/bitacora.png)
       (el cálculo a mano al margen queda para la entrega en papel).
 - [x] Log de eventos en una base (SQLite), no en el navegador.
